@@ -119,9 +119,3 @@ Contributions are welcome! Here's how you can contribute:
 As of February 2025, the user limit of 500 has been exceeded. To test the website, you can log in using the following account:
 - Email: test@mail.com
 - Password: test@@123456
-
-## 📬 Contact
-
-Wanna reach out to me? DM me at 👇
-
-Email: mahmudul15-13791@diu.edu.bd
